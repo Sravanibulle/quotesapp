@@ -19,4 +19,13 @@ class QuoteDataModel {
 }
 
 
+//Hello Developer, How are you??????//I am fine, Thank you!
 
+getQuotes() {
+  String url = "https://dummyjson.com/quotes";
+
+  // http.Response res = await http.get(Uri.parse(url));
+
+  // print(res.statusCode);
+  // print(res.body);
+}
